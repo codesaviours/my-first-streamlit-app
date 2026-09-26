@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import random
 
@@ -408,4 +408,4 @@ Made with Python + Streamlit 🚀
 
 </div>
 """, unsafe_allow_html=True)
-```
+
